@@ -11,4 +11,4 @@ Para pessoas que vão à academia, que estão em busca de melhorar o condicionam
 
 
 ## Objetivo
-Desenvolver um aplicativo que crie desafios de exercícios físicos de acordo com as informações do usuário e da academia que ele frequenta, e gere uma pontuação toda vez que os objetivos forem completados. Também, desenvolver uma aba de conversão de pontos para descontos em mensalidades.
+Desenvolver um aplicativo que crie desafios de exercícios físicos de acordo com as informações do usuário e da academia que ele frequenta, e gere uma pontuação toda vez que os objetivos forem completados. Também, criar sistema de pontuação para descontos em mensalidades.
