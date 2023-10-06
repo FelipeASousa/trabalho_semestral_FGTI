@@ -15,5 +15,5 @@ Desenvolver um aplicativo que crie desafios de exercícios físicos de acordo co
 
 
 ## Artefatos da Entrega 1
-<p>Project Model Canvas: <a href="">Acesse o link</a></p>
-<p>Personas: <a href="">Acesse o link</a></p>
+<p>Project Model Canvas: <a href="https://github.com/FelipeASousa/trabalho_semestral_FGTI/tree/main/Canvas">Acesse o link</a></p>
+<p>Personas: <a href="https://github.com/FelipeASousa/trabalho_semestral_FGTI/tree/main/Personas">Acesse o link</a></p>
