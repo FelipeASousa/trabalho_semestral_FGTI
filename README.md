@@ -17,5 +17,6 @@ Desenvolver um aplicativo que crie desafios de exercícios físicos de acordo co
 Proporcionar uma vida saudável através da prática de exercícios físicos, bem como auxiliar academais locais a se desenvolverem e aumentarem a retenção de público.
 
 ## Artefatos da Entrega 1
+As documentações dos artefatos estão presentes nas pastas
 <p>Project Model Canvas: <a href="https://github.com/FelipeASousa/trabalho_semestral_FGTI/tree/main/Canvas">Acesse o link</a></p>
 <p>Personas: <a href="https://github.com/FelipeASousa/trabalho_semestral_FGTI/tree/main/Personas">Acesse o link</a></p>
