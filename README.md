@@ -20,7 +20,7 @@ Proporcionar uma vida saudável através da prática de exercícios físicos, be
 As documentações dos artefatos estão presentes nas pastas
 <p>Project Model Canvas: <a href="https://github.com/FelipeASousa/trabalho_semestral_FGTI/tree/main/Canvas">Acesse o link</a></p>
 <p>Personas: <a href="https://github.com/FelipeASousa/trabalho_semestral_FGTI/tree/main/Personas">Acesse o link</a></p>
-## Artefatos Entrega 2
+<h1>Artefatos Entrega 2</h1>
 Link com todos os artefatos  <a href="https://github.com/FelipeASousa/trabalho_semestral_FGTI/blob/main/Entrega2/Entrega2_FGTI.xlsx">Acesse o link</a>
 <p>Product Backlog: <a href="https://github.com/FelipeASousa/trabalho_semestral_FGTI/tree/main/Product%20Backlog">Acesse o link</a></p>
 <p>User Stories: <a href="https://github.com/FelipeASousa/trabalho_semestral_FGTI/tree/main/User%20Stories">Acesse o link</a></p>
